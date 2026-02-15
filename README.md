@@ -18,8 +18,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tesilio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesilio&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesilio&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -31,14 +30,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Dev Card
-
-<div align="center">
-  <a href="https://app.daily.dev/tesilio">
-    <img src="./devcard.svg" width="356" alt="tesilio's Dev Card"/>
-  </a>
-</div>
-
 ---
 
 <div align="center">
@@ -47,5 +38,5 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tesilio&icon=0&color=12" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tesilio&color=A9B1D6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>

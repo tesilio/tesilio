@@ -28,6 +28,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Engineering&lpar;번역&rpar;](https://blog.tesilio.com/2026-02-11)
+- [개인 사이트 구축과 블로그 이전](https://blog.tesilio.com/2026-01-17)
+- [AI 시대, 나는 어떻게 살 것인가](https://blog.tesilio.com/2026-01-14)
+- [2025년 회고](https://blog.tesilio.com/2026-01-04)
+- [2023년 회고](https://blog.tesilio.com/2024-02-20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
